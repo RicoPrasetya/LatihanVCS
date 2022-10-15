@@ -109,3 +109,4 @@
  ### Cek File 
  Setelah itu, cek repository yang telah Anda buat. Anda akan mendapati file-file yang telah ditambahkan sebelumnya. Pada tutorial ini kami menambahkan tiga file, yaitu index.php, single.php, dan README.txt. 
  ![Gambar 24](screenshot/ss24.png)
+ 
